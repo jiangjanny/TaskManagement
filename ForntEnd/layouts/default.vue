@@ -9,8 +9,8 @@
       </header>
   
       <main>
-      <slot />
-    </main>
+        <slot />
+      </main>
   
       <footer>
         <p>Footer Content</p>
